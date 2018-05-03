@@ -79,6 +79,9 @@
             <asp:Label ID="Label1" runat="server" Text="" Font-Bold="True"
                 Font-Size="1em"></asp:Label>
             <br />
+            <asp:Label ID="Label2" runat="server" Text="" Font-Bold="True"
+                Font-Size="1em"></asp:Label>
+            <br />
             <h4>鉴定结果基于百度AI图像识别与深度学习
             </h4>
         </div>

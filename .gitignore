@@ -259,3 +259,8 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+*.DS_Store
+/magic_plant/magic/images/rec_plant
+/magic_plant/magic/images/upload
+*.DS_Store
+/Thumbs.db
